@@ -1,0 +1,15 @@
+{
+    "name": "mimi/app",
+    "authors": [
+        {
+            "name": "mimi"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Libs\\": "_classes/Libs/",
+            "Helpers\\": "_classes/Helpers/"
+        }   
+    }
+}
